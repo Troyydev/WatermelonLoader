@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxzm9maDxq/Vwiv1KXSNPKYmlJqzpkhjuceePwRjtEsXmDl4y/97akKz+iQl75NzlgwSb7RYEw6rPwLLYHs76Q==",
+  "success": false,
+  "projectFilePath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\CompatibilityLayers\\Stress_Level_Zero_Il2Cpp\\Stress_Level_Zero_Il2Cpp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
