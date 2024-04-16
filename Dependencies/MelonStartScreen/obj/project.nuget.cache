@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "luhuE7/1l1YEKVtkXjZ0lEqlZEFeFsTS4ewt6f3G7XX1vq2NnQp+ZewxUWQcp2EOhbsNfFIwwWy9LTzU+ZOkNw==",
+  "success": false,
+  "projectFilePath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\MelonStartScreen\\MelonStartScreen.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v3.5"
+      ]
+    }
+  ]
+}
