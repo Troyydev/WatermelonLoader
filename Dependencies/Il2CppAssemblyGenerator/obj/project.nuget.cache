@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCvmesxIB3W9AB9F+OA8Ou7FeQIxYYElObw/eVgHEnk+QTcklCq3h1WGBKQOfQa0/pd+o26q1Up/qK3IovGLeg==",
+  "success": false,
+  "projectFilePath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\Il2CppAssemblyGenerator\\Il2CppAssemblyGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AARON\\.nuget\\packages\\assetripper.versionutilities\\1.2.1\\assetripper.versionutilities.1.2.1.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\samboy063.tomlet\\5.0.0\\samboy063.tomlet.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
