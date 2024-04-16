@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQrHkPwdZhJjaIkrPBXSBomY0RSvAvzBkghG3+Wp8ssvim8zTOba2s8VNAtW5v0n+JlL6BaZpjV6lQvQM5Mgog==",
+  "success": false,
+  "projectFilePath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\SupportModules\\Il2Cpp\\Il2Cpp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AARON\\.nuget\\packages\\assetripper.versionutilities\\1.2.1\\assetripper.versionutilities.1.2.1.nupkg.sha512",
+    "C:\\Users\\AARON\\.nuget\\packages\\samboy063.tomlet\\5.0.1\\samboy063.tomlet.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

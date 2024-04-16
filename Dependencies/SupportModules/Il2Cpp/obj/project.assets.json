@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "AssetRipper.VersionUtilities/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/AssetRipper.VersionUtilities.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AssetRipper.VersionUtilities.dll": {}
+        }
+      },
+      "Samboy063.Tomlet/5.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Tomlet.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Tomlet.dll": {}
+        }
+      },
+      "MelonLoader/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v3.5",
+        "dependencies": {
+          "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MelonLoader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MelonLoader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssetRipper.VersionUtilities/1.2.1": {
+      "sha512": "knQ/W1YwTZS2AbdaZh+nhyyBEZQPQDcahhSOnh88i+cdg4/FEoFJiCwaavgFvCMNuUeHTbcZc4qttF8WQ8xLIA==",
+      "type": "package",
+      "path": "assetripper.versionutilities/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "assetripper.versionutilities.1.2.1.nupkg.sha512",
+        "assetripper.versionutilities.nuspec",
+        "lib/net35/AssetRipper.VersionUtilities.dll",
+        "lib/net35/VersionUtilities.xml",
+        "lib/net40/AssetRipper.VersionUtilities.dll",
+        "lib/net40/VersionUtilities.xml",
+        "lib/net5.0/AssetRipper.VersionUtilities.dll",
+        "lib/net5.0/VersionUtilities.xml",
+        "lib/net6.0/AssetRipper.VersionUtilities.dll",
+        "lib/net6.0/VersionUtilities.xml",
+        "lib/netstandard2.0/AssetRipper.VersionUtilities.dll",
+        "lib/netstandard2.0/VersionUtilities.xml"
+      ]
+    },
+    "Samboy063.Tomlet/5.0.1": {
+      "sha512": "bTrCQp5hJoTaX2rUl+Ie78ibF0wt8e2Tv9F7lnDCEwqy1sXb9dksOjnM8mf1RN6qNCyiHrGOVBBsOZVK1OXmJA==",
+      "type": "package",
+      "path": "samboy063.tomlet/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Tomlet.dll",
+        "lib/net6.0/Tomlet.dll",
+        "lib/netstandard2.0/Tomlet.dll",
+        "samboy063.tomlet.5.0.1.nupkg.sha512",
+        "samboy063.tomlet.nuspec"
+      ]
+    },
+    "MelonLoader/1.0.0": {
+      "type": "project",
+      "path": "../../../MelonLoader/MelonLoader.csproj",
+      "msbuildProject": "../../../MelonLoader/MelonLoader.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "AssetRipper.VersionUtilities >= 1.2.1",
+      "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj",
+      "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj",
+      "MelonLoader >= 1.0.0",
+      "Samboy063.Tomlet >= 5.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AARON\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\SupportModules\\Il2Cpp\\Il2Cpp.csproj",
+      "projectName": "Il2Cpp",
+      "projectPath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\SupportModules\\Il2Cpp\\Il2Cpp.csproj",
+      "packagesPath": "C:\\Users\\AARON\\.nuget\\packages\\",
+      "outputPath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\Dependencies\\SupportModules\\Il2Cpp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "F:\\MelonLoader-lemon\\MelonLoader-lemon\\NuGet.Config",
+        "C:\\Users\\AARON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj": {
+              "projectPath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj"
+            },
+            "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj": {
+              "projectPath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj"
+            },
+            "F:\\MelonLoader-lemon\\MelonLoader-lemon\\MelonLoader\\MelonLoader.csproj": {
+              "projectPath": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\MelonLoader\\MelonLoader.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "AssetRipper.VersionUtilities": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          },
+          "Samboy063.Tomlet": {
+            "target": "Package",
+            "version": "[5.0.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerBaseLib\\UnhollowerBaseLib.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\Il2CppAssemblyUnhollower\\UnhollowerRuntimeLib\\UnhollowerRuntimeLib.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "F:\\MelonLoader-lemon\\MelonLoader-lemon\\ExternalDeps\\JNISharp\\JNISharp\\JNISharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
